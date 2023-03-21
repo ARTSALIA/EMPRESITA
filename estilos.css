@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: blueviolet;
+    display: flex;
+    
+}   
+.logo{
+margin-left: 450px;
+margin-bottom: 450px;
+background-color: brown;
+width: 20px;
+height: 270px;
+border-radius: 50%;
+
+}
+
+.logo img{
+    
+    border-radius: 50%;
+}
